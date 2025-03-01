@@ -3,4 +3,4 @@ describe('Home Page Redirect Test', () => {
       cy.visit('/');
       cy.location('pathname').should('eq', '/movies');
     });
-  });
+});
