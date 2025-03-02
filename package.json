@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "cypress": "^14.1.0"
+    "@testing-library/cypress": "^10.0.3",
+    "cypress": "^14.1.0",
+    "cypress-axe": "^1.6.0"
   }
 }
